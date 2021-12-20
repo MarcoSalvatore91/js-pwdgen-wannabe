@@ -27,4 +27,4 @@ console.log (favouriteColor);
 
 // 4. Scrivi sulla pagina nomecognomecolorepreferito21
 
-const resultele
+document.getElementById('password').innerText = `La tua password è ${firstName}${lastName}${favouriteColor}21`;
