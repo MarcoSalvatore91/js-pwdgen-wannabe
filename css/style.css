@@ -1,0 +1,38 @@
+/* Header */
+
+#logo-key {
+    width: 30px;
+}
+
+/* Main */
+
+/* Jumbotron Img */
+
+.jumbotron {
+    height: 600px;
+}
+
+.jumbo-img {
+    background-image: url(../img/doberman.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#info:hover {
+    box-shadow: 0 0 0 4px rgb(45,100,231);
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+#info {
+    transition: box-shadow 1s;
+}
+
+/* Password Generator */
+
+
+
+
+
+
+
