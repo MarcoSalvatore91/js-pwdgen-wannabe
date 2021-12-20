@@ -9,3 +9,6 @@ console.log ('JS OK');
 
 // Chiedi all'utente il suo nome
 
+const username = prompt ('Come ti chiami?');
+
+console.log (username)
