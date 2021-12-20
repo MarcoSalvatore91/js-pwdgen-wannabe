@@ -13,10 +13,16 @@
 }
 
 .jumbo-img {
-    background-image: url(../img/doberman.jpeg);
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),
+    url(../img/doberman.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/* Info */
 
 #info:hover {
     box-shadow: 0 0 0 4px rgb(45,100,231);
@@ -28,7 +34,8 @@
     transition: box-shadow 1s;
 }
 
-/* Password Generator */
+/* Password */
+
 
 
 
