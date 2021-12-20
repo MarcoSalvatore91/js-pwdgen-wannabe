@@ -20,3 +20,11 @@ const lastName = prompt ('Qual è il tuo cognome?');
 console.log (lastName);
 
 // 3. Chiedi il suo colore preferito
+
+const favouriteColor = prompt ('Qual è il tuo colore preferito?');
+
+console.log (favouriteColor);
+
+// 4. Scrivi sulla pagina nomecognomecolorepreferito21
+
+const resultele
