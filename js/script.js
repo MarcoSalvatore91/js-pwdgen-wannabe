@@ -9,6 +9,14 @@ console.log ('JS OK');
 
 // Chiedi all'utente il suo nome
 
-const username = prompt ('Come ti chiami?');
+const firstName = prompt ('Qual è il tuo nome?');
 
-console.log (username)
+console.log (firstName);
+
+// 2. Chiedi il suo cognome
+
+const lastName = prompt ('Qual è il tuo cognome?');
+
+console.log (lastName);
+
+// 3. Chiedi il suo colore preferito
